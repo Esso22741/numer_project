@@ -126,8 +126,8 @@ class Bi extends Component {
     render() {
         return (
             <div align="left" className="bg-Npage1" >
-                <p2>Bisection</p2>
                 <div align="left">
+                <p2>Bisection</p2>
                     <Container>
                         <Row>
                             <Col >
